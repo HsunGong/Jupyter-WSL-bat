@@ -1,6 +1,6 @@
-# a plugin to start jupyter notebook in wsl
+# A plugin to start jupyter notebook in Windows Subsystem for linux
 
-## Prepare:
+## Preparation:
 
 - Modify config.py here.
 
