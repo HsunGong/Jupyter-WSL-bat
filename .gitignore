@@ -1,0 +1,6 @@
+.vscode/
+.ipynb_*/
+logs/
+
+*.ipynb
+config.py

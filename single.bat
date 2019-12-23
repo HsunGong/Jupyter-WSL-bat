@@ -1,0 +1,1 @@
+start /B C:\Windows\System32\wsl.exe bash -c "source ~/.global.env; jupyter-notebook --config=/home/xun/Desktop/jupyter/config.py"
